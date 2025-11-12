@@ -1,3 +1,3 @@
 # Demo
 This is my first Git Repository.
-<br> Author : Priyanshu
+<br> Author : Priyanshu Maurya
